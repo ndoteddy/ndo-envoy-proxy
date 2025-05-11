@@ -1,34 +1,62 @@
-# Project-Envoy-Proxy
-In This Repository - We will simulate how to implement envoy proxy with docker compose - and node js application
+# Project: Envoy Proxy Implementation with Docker Compose and Node.js
 
+This repository demonstrates how to implement Envoy Proxy using Docker Compose and a Node.js application.
 
-Creator : Hernando Ivan Teddy
-https://www.linkedin.com/in/hernandoivanteddy/
+### Creator
+Hernando Ivan Teddy  
+[LinkedIn Profile](https://www.linkedin.com/in/hernandoivanteddy/)
 
-Prerequisite
-Before going further make sure your local pc has this component or already configure it before
-Docker + Docker-Compose
-Git and Vs Code
-Bash Script/Linux Basic Knowledge
-Node JS (NPM)
-And some willingness to read, read and read the official documentation https://www.envoyproxy.io/docs/envoy/latest/
+---
 
+## Prerequisites
 
-Stack : 
-1. Docker
-2. Envoy Proxy
-3. Git
-4. Curl
-5. Docker-Compose
+Before proceeding, ensure your local machine is set up with the following components:
 
-Knowledge
-1. Linux Environment
-2. Cloud Environment (For further extension or enhancement)
+- **Docker** + **Docker-Compose**
+- **Git** and **VS Code**
+- **Basic knowledge of Bash Script/Linux**
+- **Node.js** (and NPM)
 
-Article and Insight
-https://medium.com/scriptkiddiez/drink-tea-with-envoy-proxy-e8b3c58908f1
+Additionally, you will need to familiarize yourself with the [official Envoy documentation](https://www.envoyproxy.io/docs/envoy/latest/), as it will be crucial for this project.
 
-Linkedin Community
-https://www.linkedin.com/company/spectrintech
+---
 
-Credit : https://www.envoyproxy.io/docs/envoy/latest/start/start
+## Tech Stack
+
+The following tools and technologies are used in this project:
+
+1. **Docker**
+2. **Envoy Proxy**
+3. **Git**
+4. **Curl**
+5. **Docker-Compose**
+
+---
+
+## Required Knowledge
+
+To fully understand and extend this project, the following knowledge areas are recommended:
+
+- **Linux Environment**: Basic Linux commands and file management
+- **Cloud Environment**: Understanding cloud-based tools (for potential future enhancements)
+
+---
+
+## Article & Insight
+
+For more details on how to use Envoy Proxy, check out the following article:  
+[Drink Tea with Envoy Proxy](https://medium.com/scriptkiddiez/drink-tea-with-envoy-proxy-e8b3c58908f1)
+
+---
+
+## LinkedIn Community
+
+Join our community on LinkedIn for more updates and discussions:  
+[SpectrinTech on LinkedIn](https://www.linkedin.com/company/spectrintech)
+
+---
+
+## Credits
+
+This project is based on the official Envoy Proxy documentation, which can be accessed here:  
+[Envoy Proxy Official Docs](https://www.envoyproxy.io/docs/envoy/latest/start/start)
